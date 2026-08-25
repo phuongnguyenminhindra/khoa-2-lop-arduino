@@ -19,5 +19,13 @@ Project 30 ngày - Khóa 2 lớp đổi được mật khẩu ngay trên mạch,
 ### 🚀 Demo
 1. Xoay biến trở đúng -> xanh chớp
 2. Bấm A->B->C -> xanh sáng 1s + tít -> Mở khóa!
+### 🎥 Video demo thực tế (bản full)
+Do video nặng nên mình up lên Drive:
+👉
+1.https://drive.google.com/file/d/1I3zQqQXCNAxHt8Bju17RTurUeXw0U7yg/view?usp=drive_link
+2.https://drive.google.com/file/d/15aDbDk0lqqPBzyoQ6IXgJ_zXTx5hdPUh/view?usp=drive_link
+3.https://drive.google.com/file/d/1oC0J1Wzsl88w10kLRLQKQCimbV8yEab1/view?usp=drive_link
+
+
 
 Làm bởi Phương Nguyễn - Arduino 30 Days Challenge
